@@ -1,0 +1,6 @@
+INFO[0], : Gdesk.load(){
+  mov(1): INFO
+  iov(1): 0
+  print: mov(1)
+  print: iov(1)
+}
